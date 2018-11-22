@@ -29,7 +29,7 @@ C#  |  Leigo
 `A solução para mudar a mensagemm do ultimo commit é:`
 
 ```
-git commit --amend -m "Sua mensagemm"
+git commit --amend -m "Sua mensagem"
 ```
 
 
