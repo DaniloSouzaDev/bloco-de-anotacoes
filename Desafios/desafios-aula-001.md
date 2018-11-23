@@ -1,6 +1,6 @@
 # Desafio básico
 
-![Tema mudado](https://photos.app.goo.gl/GKHnqT7TuTcXhrBm9)
+![Tema mudado](https://photos.app.goo.gl/PkJ5zvRjxrMz3Hbv7)
 
 
 # Desafio Intermediário 
